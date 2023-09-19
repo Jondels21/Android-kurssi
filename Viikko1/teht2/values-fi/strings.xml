@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloTamk2023</string>
+    <string name="click_me">Kilkkaa</string>
+    <string name="hello_tamk">Hei TAMK</string>
+    <string name="hello_from_code">Terveiset koodista</string>
+    <string name="button_clicked">Klikattu</string>
+</resources>
