@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Valuuttamuunnin</string>
+    <string name="eur">EUR</string>
+    <string name="usd">USD</string>
+    <string name="_0">0</string>
+    <string name="asetukset">Asetukset</string>
+    <string name="muunna">Muunna</string>
+    <string name="vaihda_valuuttojen_paikat">Vaihda valuuttojen paikat</string>
+    <string name="name">Nimi</string>
+    <string name="hello">Moi</string>
+    <string name="_1">1</string>
+    <string name="takaisin">Takaisin</string>
+    <string name="name2">Nimi</string>
+    <string name="home_currency">Kotivaluutta</string>
+    <string name="destination_currency">Kohdevaluutta</string>
+    <string name="switchText">Kytkin</string>
+</resources>
